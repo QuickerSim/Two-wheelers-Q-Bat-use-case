@@ -6,7 +6,7 @@ This repository shows how to model transfer in a e-motorbike’s battery pack in
 ### :arrow_down: Please use this link instead of the download button: [Download link]() :arrow_down:
 
 
-Run startup_ssc_battery_rom_qbat.m to get started 
+Run battery_pack_17S6P.m to get started 
 * Please visit the [Q-Bat](https://www.mathworks.com/products/connections/product_detail/quickersim-q-bat.html) and [QuickerSim](https://emobility.quickersim.com/) 
 page to learn more about modeling heat transfer in 3-D systems.
 
