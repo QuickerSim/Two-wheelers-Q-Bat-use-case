@@ -1,7 +1,7 @@
 # Heat transfer in a e-motorbike’s battery pack modeled in Q-Bat 
-[![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
+[![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/114775-two-wheelers-q-bat-use-case)
 
-### :arrow_down: Please use this link instead of the download button: [Download link](https://github.com/QuickerSim/Two-wheelers-Q-Bat-use-case/releases/download/1.0.0/Two-wheelers-Q-Bat-use-case.zip) :arrow_down:
+### :arrow_down: Please use this link instead of the download button: [Download link](https://github.com/QuickerSim/Two-wheelers-Q-Bat-use-case/releases/download/1.0.1/Two-wheelers-Q-Bat-use-case.zip) :arrow_down:
 
 
 Run battery_pack_17S6P.m to get started 
